@@ -1,0 +1,22 @@
+Example for input and respective output:
+./a.out file.txt
+
+Info from file
+NodeA	NodeB	Weight
+0	1	4
+0	2	8
+1	3	5
+1	2	2
+2	3	5
+2	4	9
+3	4	4
+
+Distances are
+0	0
+1	4
+2	6
+3	9
+4	13
+
+Basic operation 
+> comparison and iteration.
